@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ismail ZAHIR</h1>
-<h3 align="center">A passionate software engineer from Morocco</h3>
+<h3 align="center">A passionate Software Engineer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailza&label=Profile%20views&color=0e75b6&style=flat" alt="ismailza" />
 <a href="https://github.com/ismailza?tab=followers"><img src="https://img.shields.io/github/followers/ismailza?label=Followers&style=social" alt="GitHub Badge"></a></p>
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Software Engineering and Integration of Computer Systems**
 
-- 👀 I’m interested in **Software Engineering and Artificial Intelligence...**
+- 👀 I’m interested in **Blockchain and Artificial Intelligence...**
 
 - 📫 How to reach me **ismailza407@gmail.com**
 
