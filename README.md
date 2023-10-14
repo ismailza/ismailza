@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ismail ZAHIR</h1>
 <h3 align="center">A passionate Software Engineer from Morocco</h3>
 
+<p>
+  I'm Ismail ZAHIR, a Software Engineering and Computer Systems Integration student with a strong foundation in software engineering. I'm passionate about innovation and love exploring blockchain and data science. Join me in creating exceptional software experiences and embracing the potential of technology and data insights.
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ismailza&label=Profile%20views&color=0e75b6&style=flat" alt="ismailza" />
 <a href="https://github.com/ismailza?tab=followers"><img src="https://img.shields.io/github/followers/ismailza?label=Followers&style=social" alt="GitHub Badge"></a></p>
 
@@ -10,7 +14,13 @@
 
 - 👀 I’m interested in **Blockchain and Artificial Intelligence...**
 
+- 👯 I'm always open to collaborating on new projects.
+
 - 📫 How to reach me **ismailza407@gmail.com**
+
+- 📄 Know about my experiences **<a href="https://ismailza.github.io/Portfolio/">Ismail ZAHIR</a>**
+
+- ⚡ Building a successful product is a challenge.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
