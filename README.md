@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ismailza407@gmail.com**
 
-- 📄 Know about my experiences **<a href="https://ismailza.github.io/Portfolio/">Ismail ZAHIR</a>**
+- 📄 Know about my experiences **<a href="http://ismailzahir.me">Ismail ZAHIR</a>**
 
 - ⚡ Building a successful product is a challenge.
 
