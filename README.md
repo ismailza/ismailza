@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Software Engineering and Integration of Computer Systems**
 
-- 👀 I’m interested in **Blockchain and Artificial Intelligence...**
+- 👀 I’m interested in **Blockchain, Web3 and Artificial Intelligence...**
 
 - 👯 I'm always open to collaborating on new projects.
 
