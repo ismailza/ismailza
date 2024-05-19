@@ -54,7 +54,7 @@
 <h3 align="left">GitHub Profile Summary</h3>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ismailza&theme=algolia" alt="ismailza's profile details" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ismailza&count_private=true&theme=algolia" alt="ismailza's profile details" />
 </p>
 
 <h3 align="left">GitHub Stats</h3>
