@@ -52,12 +52,6 @@ Languages      Java · C# · TypeScript · JavaScript · Python · PHP · C / C+
 
 ---
 
-## Open source
-
-- **[keycloak-2fa-email-authenticator](https://github.com/mesutpiskin/keycloak-2fa-email-authenticator)** — Active contributor to a Keycloak 2FA extension
-
----
-
 ## What I'm building toward
 
 I'm driven by the challenge of building software that solves real problems — from healthcare access to everyday services. My focus is on products that are well-architected, maintainable, and built to last.
